@@ -1,14 +1,16 @@
 ## Hi, I'm Suleman Idris Zubairu 👋
 
-## Full-stack Developer | Data analyst |  Aspiring Cybersecurity Professional ⚡
+## 
+Full-stack Developer | Data analyst |  Aspiring Cybersecurity Professional ⚡
+##
 
 ## About Me 💬
 As a creative and professional full stack developer and Data Analyst, with a passion of turning ideas into great digital solutions, I am very keen to the security of information and executing projects successfully.
 
-**Front-End Development** 
-**Back end Development**
-**Database**
-**Data Analytics**
+##**Front-End Development** 
+##**Back end Development**
+##**Database**
+##**Data Analytics**
 **Others:** HTML, CSS, Javascript, Wireshark
 
 ## Connet with me 👯
