@@ -1,4 +1,4 @@
-## Hi, I'm Suleman Idris Zubairu 👋
+## Hi, I'm Suleman Zubairu 👋
 
  
 Full-stack Developer | Data analyst |  Aspiring Cybersecurity Professional ⚡
