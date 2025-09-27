@@ -4,13 +4,13 @@
 Full-stack Developer | Data analyst |  Aspiring Cybersecurity Professional ⚡
 ##
 
-## About Me 💬
+## About me 💬
 As a creative and professional full stack developer and Data Analyst, with a passion of turning ideas into great digital solutions, I am very keen to the security of information and executing projects successfully.  
 
-* **Front-End Development**  
-* **Back end Development**  
-* **Database**  
-* **Data Analytics**  
+* **Front-End Development✨**  
+* **Back end Development✨**  
+* **Database✨**  
+* **Data Analytics✨**  
 * **Others:** HTML, CSS, Javascript, Wireshark  
 
 ## Connet with me 👯
@@ -26,9 +26,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
