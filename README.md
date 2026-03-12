@@ -1,7 +1,7 @@
 ## Hi, I'm Suleman Zubairu 👋
 
  
-Full-stack Developer | Data analyst |  Aspiring Cybersecurity Professional ⚡
+Full-stack Developer | Data analyst |  Information Security Enthusiast ⚡
 ##
 
 ## About me 💬
