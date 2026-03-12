@@ -11,10 +11,10 @@ As a creative and professional full stack developer and Data Analyst, with a pas
 * **Back end Development ✨**  
 * **Databases ✨**  
 * **Data Analytics ✨**  
-* **Others:** HTML, CSS, Javascript, SQL, Ms Excel, Wireshark  
+* **Others:** HTML, CSS, Javascript, SQL, Ms Excel, Wireshark, Nmap
 
 ## Connet with me 👯
-Freely reach out and check my repositories for updatates. I  enjoy building user friendly projects and I'm open to learning, taking on challenging projects and collaboration. Do not hesitate to get in touch.
+Freely reach out and check my repositories for updatates. I  enjoy building user friendly projects and I'm open to learning, taking on challenging projects and collaboration. Do not hesitate to get in touch!
 
 ##
 
