@@ -15,7 +15,8 @@ As a creative and professional Full-stack Developer and Data Analyst, with a pas
 
 ## Connect with me 👯
 You can reach out and check my repositories for updates. I  enjoy building user friendly projects and I'm open to learning, taking on challenging projects and collaboration. 
-Do not hesitate to get in touch! 👍🤝
+##
+##Do not hesitate to get in touch!
 
 ##
 
