@@ -10,8 +10,8 @@ As a creative and professional Full-stack Developer and Data Analyst, with a pas
 * **Front-End Development ✨**  
 * **Back end Development ✨**  
 * **Databases ✨**  
-* **Data Analytics ✨** SQL, MS Excel and Powerbi
-* **Others:** HTML, CSS, Javascript, SQL, Ms Excel, Wireshark, Nmap
+* **Data Analytics ✨** :SQL, MS Excel and Powerbi
+* **Others:** HTML, CSS, Javascript  ||  SQL, MS Excel & Power BI   ||  Wireshark, Nmap
 
 ## Connect with me 👯
 You can reach out and check my repositories for updates. I  enjoy building user friendly projects and I'm open to learning, taking on challenging projects and collaboration. Do not hesitate to get in touch!
