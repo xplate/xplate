@@ -5,16 +5,16 @@ Full-stack Developer | Data analyst |  Information Security Enthusiast ⚡
 ##
 
 ## About me 💬
-As a creative and professional full stack developer and Data Analyst, with a passion of turning ideas into great digital solutions, I am very keen to the security of information and executing projects successfully.  
+As a creative and professional Full-stack Developer and Data Analyst, with a passion of turning ideas into great digital solutions, I am very keen to the security of information, delivery of insightful analysis of data with rich insights and executing projects successfully.  
 
 * **Front-End Development ✨**  
 * **Back end Development ✨**  
 * **Databases ✨**  
-* **Data Analytics ✨**  
+* **Data Analytics ✨** SQL, MS Excel and Powerbi
 * **Others:** HTML, CSS, Javascript, SQL, Ms Excel, Wireshark, Nmap
 
-## Connet with me 👯
-Freely reach out and check my repositories for updatates. I  enjoy building user friendly projects and I'm open to learning, taking on challenging projects and collaboration. Do not hesitate to get in touch!
+## Connect with me 👯
+You can reach out and check my repositories for updates. I  enjoy building user friendly projects and I'm open to learning, taking on challenging projects and collaboration. Do not hesitate to get in touch!
 
 ##
 
