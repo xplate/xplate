@@ -1,17 +1,13 @@
 ## Hi, I'm Suleman Zubairu 👋
 
  
-Fullstack Developer | Data and Business Analyst |  Information Security Enthusiast ⚡
+Data and Business Analyst ⚡
 ##
 
 
 ## About me 💬
 As a creative and professional Full-stack Developer and Data Analyst, with a passion of turning ideas into great digital solutions, I am very keen to the security of information, delivery of insightful analysis of data with rich insights and executing projects successfully.  
-
-* **Fullstack Dev. ✨**  using HTML, CSS, Javascript & PHP
-* **InfoSec ✨** using Wireshark, Nmap
-* **Data Analytics ✨** using  SQL, MS Excel & Power BI
-
+* **Data Analytics ✨** SQL, Microsoft Excel & Microsoft Power BI
 
 ## Connect with me 👯
 You can reach out and check my repositories for updates. I  enjoy building user friendly projects and I'm open to learning, taking on challenging projects and collaboration. 
