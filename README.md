@@ -6,7 +6,7 @@ Data and Business Analyst ⚡
 
 
 ## About me 💬
-As a creative and professional Full-stack Developer and Data Analyst, with a passion of turning ideas into great digital solutions, I am very keen to the security of information, delivery of insightful analysis of data with rich insights and executing projects successfully.  
+As a creative and professional Business and Data Analyst, with a passion of turning ideas into great digital solutions, I am very keen to the security of information, delivery of insightful analysis of data with rich insights and executing projects successfully.  
 * **SQL ✨** Basic and Advanced
 * **Microsoft Excel ✨** Basic and Advanced
 * **Microsoft Power BI ✨** Basic and Advanced
